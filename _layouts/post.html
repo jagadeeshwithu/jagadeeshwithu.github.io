@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<!-- {{ page | debug}} -->
+
+<!-- Post Content -->
+<article>
+    <div class="fullPostContainer container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="row" style="height:40px">
+					<div class="addthis_sharing_toolbox pull-right"></div>
+				</div>
+                <div class="postArticle">
+					<div class="postDate"> {{ page.date | date: "%B %-d, %Y" }} </div>
+					<h1 class="postTitle">
+						<a href="{{ page.url | prepend: site.baseurl | replace: '//', '/' }}">
+							{{ page.title }}
+						</a>
+					</h1>					
+					{{ content }}
+                </div>
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+				<br/>
+				{% if page.comments == true %}
+				  <section id="disqus_thread"></section><!-- /#disqus_thread -->
+				{% endif %}
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>

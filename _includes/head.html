@@ -1,0 +1,50 @@
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" /> 
+    <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }} {% else %}{{ site.description }}{% endif %}" />  
+    <meta property="og:image" content="{% if page.header-img %}{{ page.header-img | prepend: '/' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.header-img | prepend: '/' | prepend: site.baseurl | prepend: site.url }}{% endif %}" /> 
+
+    <link rel="icon" type="image/png" href="{{'/favicon.png' | prepend: site.baseurl | prepend: site.url }}" />
+
+    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
+
+    <link rel="stylesheet" href="{{ "/css/blog.css" | prepend: site.baseurl }}">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<!-- jQuery -->
+	<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+
+	<!-- Bootstrap Core JavaScript 
+	<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+	-->
+
+	{% include google_analytics.html %}	
+
+	{% if page.comments %}
+	  {% include disqus_comments.html %}
+	{% endif %}
+
+	<!-- Go to www.addthis.com/dashboard to customize your tools -->
+	<!--<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js" async="async"></script>-->
+
+</head>
