@@ -5,7 +5,7 @@ subtitle:   ""
 comments:   true
 ---
 
-<p>Recitals, which I would proudly call this chapter, is the initiation to give a glimpse of your bucketlist of wildlife destinations</p>
+<p><a href="recitals.wilderhood.com" style="text-decoration:none; color:black">Recitals, which I would proudly call this chapter, is the initiation to give a glimpse of your bucketlist of your favourite wildlife destinations</a></p>
 
 <p>You would be taken a virtual tour by the individuals who visited the place earlier! </p>
 
