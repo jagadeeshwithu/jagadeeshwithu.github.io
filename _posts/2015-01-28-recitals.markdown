@@ -5,10 +5,12 @@ subtitle:   ""
 comments:   true
 ---
 
-<p>Recitals, I would proudly call this chapter, is the initiation to give a glimpse of your favourite wildlife destinations, which would be shared by enthusiasts like you! </p>
+<p>Recitals, which I would proudly call this chapter, is the initiation to give a glimpse of your bucketlist of wildlife destinations</p>
+
+<p>You would be taken a virtual tour by the individuals who visited the place earlier! </p>
 
 <p>Every week, there’ll be an expert who will be sharing about wild experiences and would share his emotions towards the favorite wildlife/travel destination. </p>
 
-<img src="{{ site.baseurl }}/img/2015-02-08/recitals.png" alt="Wilderhood Recitals">
+<img src="{{ site.baseurl }}/img/2015-01-28/recitals.png" alt="Wilderhood Recitals">
 
 <p>Also, experts would share their way of how they made a particular image and their emotions!!!!</p>
