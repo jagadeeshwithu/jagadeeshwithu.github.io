@@ -5,14 +5,14 @@ email: contact@wilderhood.com
 description: "Travel community for wildlife destinations"
 baseurl: ""
 
-url: "http://blog.wilderhood.com"
+url: "http://chronicles.wilderhood.com"
 #url: "http://127.0.0.1:4000"
 twitter_username: https://twitter.com/wilderhood
 github_username1:  https://github.com/wilderhood
 facebook_username:  https://www.facebook.com/wilderhood
 googleplay_name: http://bit.ly/whoodplaystore
 iosappstore_name: http://bit.ly/whooditunes
-disqus-shortname: wilderhood-blog
+disqus-shortname: wilderhood-chronicles
 domain-home: "wilderhood.com"
 
 # Build settings

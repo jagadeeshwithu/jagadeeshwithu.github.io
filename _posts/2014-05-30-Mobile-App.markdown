@@ -7,7 +7,7 @@ comments:   true
 
 <p>For all wildlife enthusiasts out there, Here are the great news!!!!!!</p>
 
-<p>India, being the popular for wildlife activity and <em>Tiger destination</em> and picked up already as a travel destination for wildlife, nature, landscapes and more, we launched version 1 mobile app, we call it as <em> Wilderhood</em> launched on May 30th!</p>
+<p>India, being the popular for wildlife activity and <em>Tiger destination</em>. Picked up as already a travel destination for wildlife, nature, landscapes and more, Wilderhood proudly launches ver.1 mobile app, and lists out all different options of travelling to your favourite destinations </p>
 
 <img src="{{ site.baseurl }}/img/2014-05-30/mobile.png" alt="Wilderhood Mobile App version 1">
 
