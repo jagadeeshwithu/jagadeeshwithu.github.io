@@ -13,4 +13,4 @@ comments:   true
 
 <p>Launched for both the famous platforms, Android and ios</p>
 
-<p>Keep looking out for more here.....!!!!</p>
+<p>Keep watching this space for more!!!!!</p>
