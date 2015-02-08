@@ -13,4 +13,4 @@ comments:   true
 
 <img src="{{ site.baseurl }}/img/2015-01-28/recitals.png" alt="Wilderhood Recitals">
 
-<p>Also, experts would share their way of how they made a particular image and their emotions!!!!</p>
+<p>Also, experts would share their way of how they made a particular image and their emotions towards the images!!!!</p>
