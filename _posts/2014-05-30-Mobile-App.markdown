@@ -11,6 +11,6 @@ comments:   true
 
 <img src="{{ site.baseurl }}/img/2014-05-30/mobile.png" alt="Wilderhood Mobile App version 1">
 
-<p>Launched for both the famous platforms, Android and ios</p>
+<p>Launched for both the popular platforms, Android and ios and will be expanding and reaching out more customers soon!</p>
 
 <p>Keep watching this space for more!!!!!</p>
