@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Chapter: Rectials"
+title:      "Chapter: Recitals"
 subtitle:   ""
 comments:   true
 ---
