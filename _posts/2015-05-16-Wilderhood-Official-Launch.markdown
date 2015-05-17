@@ -6,13 +6,13 @@ comments:   true
 ---
 
 <p>
-After learning inputs from the users of public beta app for Wilderhood, re-designed <a href="http://www.wilderhood.com" style="text-decoration:none">Wilderhood</a> and launched successfully!
+After collected the from the public beta users for Wilderhood, re-designed <a href="http://www.wilderhood.com" style="text-decoration:none">Wilderhood</a> and launched successfully in the form of website!
 </p>
 
 <img src="{{ site.baseurl }}/img/Launch.jpg" alt="Wilderhood Launch">
 
 <p>
-Launched Website and planning to release the mobile app for 3 major platforms (Android, ios and Windows) soon
+Mobile app versions for 3 major platforms (Android, ios and Windows) will be launched soon!!
 </p>
 
 <p>
