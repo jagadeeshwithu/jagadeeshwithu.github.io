@@ -9,7 +9,7 @@ comments:   true
 Wilderhood, started logging the events in the <a href="http://blog.wilderhood.com">Wilderhood: Official Blog</a> for our audience to keep posted about happenings at wilderhood front.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-02-08/portrait.png" alt="Wilderhood Official blog post">
+<img src="{{ site.baseurl }}/img/portrait.png" alt="Wilderhood Official blog post">
 
 <p>
 Do follow this page to see the upcoming related to development announcements, deals and suggestions for the end-user and more!

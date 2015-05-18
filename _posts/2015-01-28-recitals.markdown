@@ -11,6 +11,6 @@ comments:   true
 
 <p>Every week, there’ll be an expert who will be sharing about wild experiences and would share his emotions towards the favorite wildlife/travel destination. </p>
 
-<img src="{{ site.baseurl }}/img/2015-01-28/recitals.png" alt="Wilderhood Recitals">
+<img src="{{ site.baseurl }}/img/recitals.png" alt="Wilderhood Recitals">
 
 <p>Experts would be sharing their way of how they composed an image and share the tips and tricks!</p>
