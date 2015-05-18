@@ -16,5 +16,5 @@ Do follow this page to see the upcoming related to development announcements, de
 </p>
 
 <p>
-<a href="http://www.wilderhood.com" style="text-decoration:none"> Wilderhood, a travel community for wildlife enthusiasts and photographers</a>
+<a href="http://www.wilderhood.com" style="text-decoration:none"> Wilderhood</a>, a travel community for wildlife enthusiasts and photographers
 </p>
