@@ -6,7 +6,7 @@ comments:   true
 ---
 
 <p>
-After collected the from the public beta users for Wilderhood, re-designed <a href="http://www.wilderhood.com" style="text-decoration:none">Wilderhood</a> and launched for website users!
+After collected the feedback from the public beta users for Wilderhood, re-designed <a href="http://www.wilderhood.com" style="text-decoration:none">Wilderhood</a> and launched for desktop users!
 </p>
 
 <img src="{{ site.baseurl }}/img/Launch.jpg" alt="Wilderhood Launch">
