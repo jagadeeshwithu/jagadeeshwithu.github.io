@@ -1,10 +1,11 @@
 # Site settings
 title: "Wilderhood: Official Blog"
-header-img: img/home-bg.jpg
+header-img: img/Launch.jpg
 email: contact@wilderhood.com
 description: "Travel community for wildlife destinations"
 baseurl: ""
 
+domainurl: http://www.wilderhood.com
 url: "http://blog.wilderhood.com"
 #url: "http://127.0.0.1:4000"
 twitter_username: https://twitter.com/wilderhood

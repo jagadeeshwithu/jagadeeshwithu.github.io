@@ -3,6 +3,7 @@ layout:     post
 title:      "Medium blog post for wilderhood, Travel community for wildlife"
 subtitle:   ""
 comments:   true
+header-img: img/medium-blog.jpg
 ---
 
 <p> Medium, the famous blog-publishing platform is one source to reach out to international and wide-user base </p>

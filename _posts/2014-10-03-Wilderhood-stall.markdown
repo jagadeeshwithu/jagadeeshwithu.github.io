@@ -3,6 +3,7 @@ layout:     post
 title:      "First Official stall for Wilderhood with \"Window to the wild\" Wildlife Photography exhibition at Chitra Kala Parishat"
 subtitle:   ""
 comments:   true
+header-img: img/handout.jpg
 ---
 
 <p>

@@ -3,6 +3,7 @@ layout:     post
 title:      "Chapter: Recitals"
 subtitle:   ""
 comments:   true
+header-img: img/recitals.png
 ---
 
 <p><a href="http://recitals.wilderhood.com" style="text-decoration:none; color:black">Recitals, which I would proudly call this chapter, is the initiation to give a glimpse of your bucketlist for your favourite wildlife destinations!</a></p>

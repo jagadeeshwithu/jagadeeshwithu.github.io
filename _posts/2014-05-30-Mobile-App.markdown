@@ -3,6 +3,7 @@ layout:     post
 title:      "Hurray, we are live now!"
 subtitle:   ""
 comments:   true
+header-img: img/mobile.png
 ---
 
 <p>For all wildlife enthusiasts out there, Here is the great news!!!!!!</p>

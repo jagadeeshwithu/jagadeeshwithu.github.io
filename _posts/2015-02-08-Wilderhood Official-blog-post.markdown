@@ -3,6 +3,7 @@ layout:     post
 title:      "Official blog for wilderhood, Travel community for wildlife"
 subtitle:   ""
 comments:   true
+header-img: img/portrait.png
 ---
 
 <p>
