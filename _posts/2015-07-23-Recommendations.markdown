@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Recommended trips section on Wilderhood Recitals"
+title:      "Recommended trips on Wilderhood Recitals"
 subtitle:   ""
 comments:   true
 ---
