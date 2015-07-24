@@ -8,7 +8,7 @@ comments:   true
 <p>
 Firstly, <strong>Congrats!!!</strong> and <strong>BIG Thank You!!!</strong> for making the Recitals huge success, to both our contributors and enthusiasts.</p> 
 
-<p>Really! Our team is quite overwhelmed with the responses we've received and interest people are showing to contribute their work here!!! Our analytics also show how many users are visiting the Recitals daily and average time one spending here. It's quite encouraging for us to make this going and make it big!
+<p>Really! Our team is quite overwhelmed with the responses we've received and interest people are showing to contribute their work here!!! Our analytics also a proof how many users are visiting the Recitals daily basis and average time one spending here. It's quite encouraging for us to make this going and make it big!
 </p>
 
 <strong>
