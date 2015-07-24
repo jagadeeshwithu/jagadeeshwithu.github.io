@@ -16,7 +16,7 @@ Now, What next?!!! What to serve? What would be interesting after finishing the 
 </strong>
 
 <p>
-Well here it is for you guys...! Wilderhood started 'Recommended Trips' section on 'Recitals' and option of booking their trips to their favourite destinations.
+Well here it is for you guys...! Wilderhood started 'Recommended Trips' section on 'Recitals' and option of booking trips to their favourite destinations.
 </p>
 
 <img src="{{ site.baseurl }}/img/reco1.png" alt="Recommended trips on Wilderhood">
