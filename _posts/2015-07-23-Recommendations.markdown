@@ -22,5 +22,9 @@ Well here it is for you guys...! Wilderhood started 'Recommended Trips' section 
 <img src="{{ site.baseurl }}/img/reco1.png" alt="Recommended trips on Wilderhood">
 
 <p>
+Check out on <a href="http://recitals.wilderhood.com" style="text-decoration:none">Recitals</a>
+</p>
+
+<p>
 <a href="http://wilderhood.com" style="text-decoration:none"> Wilderhood</a>, a travel community for wildlife enthusiasts and photographers
 </p>
