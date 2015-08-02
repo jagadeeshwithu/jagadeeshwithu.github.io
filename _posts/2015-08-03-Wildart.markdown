@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Chapter: Wildart"
+subtitle:   ""
+comments:   true
+---
+
+<em>
+"Wild Art is a visual exploration of everything and anything from outside the exclusive and rarefied spectrum of the ‘Art World’".
+</em>
+
+<p>
+Here we introduce Wildlife Artist, <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan" style="text-decoration:none">Prasad Natarajan</a> and at Wilderhood, he would be sharing with us his Wildlife Art Work on every Monday. Block your calendar, guys!!! :) 
+</p>
+
+<img src="{{ site.baseurl }}/img/wildart.png" alt="Wildart on Wilderhood">
+
+<p>
+Well, <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan" style="text-decoration:none">Prasad Natarajan</a> has decided to go with <a href="http://facebook.com/wilderhood" style="text-decoration:none; color:black">"Common Birds of Bangalore"</a>, and he would be covering all the 60 species, one each week and shares the info related, what caused the habitat loss for them. Very exciting, isn't it??!:) 
+</p>
+
+<p>
+ <a href="http://facebook.com/wilderhood" style="text-decoration:none">See you guys see there on every Monday!</a>
+ </p>
+
+<p>
+<a href="http://wilderhood.com" style="text-decoration:none"> Wilderhood</a>, a travel community for wildlife enthusiasts and photographers
+</p>
