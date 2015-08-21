@@ -136,7 +136,10 @@ img {
   bottom: 0;
   background: #f5f5f5;
   left: 0;
-  width: 80px;
+  width: 60px;
+  text-align: center;
+  position: fixed;
+  padding-top: 20px;
 }
 
 .aside a {
@@ -157,6 +160,12 @@ img {
 	margin-top: 20px;
 }
 
+.main {
+  overflow: auto;
+  right: 0;
+  padding-left: 60px;
+}
+
 @media screen and (max-width: 640px) {
   .aside {
     width: 40px;
@@ -164,11 +173,9 @@ img {
   .aside img {
     width: 40px;
   }
-}
-
-.main {
-  overflow: auto;
-  right: 0;
+  .main {
+	padding-left: 40px;
+  }
 }
 
 .fullPostContainer .readMore {
