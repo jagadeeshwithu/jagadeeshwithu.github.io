@@ -19,7 +19,7 @@ Now, What next?!!! What to serve? What would be interesting after finishing the 
 Well here it is for you guys...! Wilderhood started 'Recommended Trips' section on 'Recitals' and option of booking trips to their favourite destinations.
 </p>
 
-<img src="{{ site.baseurl }}/img/reco1.png" alt="Recommended trips on Wilderhood">
+<img src="{{ site.baseurl }}/img/reco.png" alt="Recommended trips on Wilderhood">
 
 <p>
 Check out on <a href="http://recitals.wilderhood.com" style="text-decoration:none">Recitals</a>
