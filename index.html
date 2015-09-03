@@ -6,3 +6,14 @@ layout: default
 <div class="infinite-spinner"></div>
 
 <script src="{{ "/js/infinite-jekyll.js " | prepend: site.baseurl }}""></script>
+
+{% if paginator.page == 1 %}
+	<script type="application/ld+json">
+	{
+	  "@context" : "http://schema.org",
+	  "@type" : "WebSite",
+	  "name" : "Wilderhood",
+	  "url" : "http://www.wilderhood.com"
+	}
+	</script>
+{% endif %}
