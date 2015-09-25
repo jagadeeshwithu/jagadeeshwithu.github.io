@@ -13,7 +13,7 @@ comments:   true
 Here we introduce Wildlife Artist, <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan" style="text-decoration:none">Prasad Natarajan</a> and at Wilderhood, he would be sharing with us his Wildlife Art Work on every Monday. Block your calendar, guys!!! :) 
 </p>
 
-<img src="{{ site.baseurl }}/img/wildart.png" alt="Wildart on Wilderhood">
+<img src="{{ site.baseurl }}/img/wildart.jpg" alt="Wildart on Wilderhood">
 
 <p>
 Well, <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan" style="text-decoration:none">Prasad Natarajan</a> has decided to go with <a href="http://recitals.wilderhood.com/wildart/" style="text-decoration:none">"Common Birds of Bangalore"</a>, and he would be covering all the 60 species, one each week and shares the info related, what caused the habitat loss for them. Very exciting, isn't it??!:) 
