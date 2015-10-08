@@ -10,7 +10,7 @@ comments:   true
 </em>
 
 <p>
-Here we introduce Wildlife Artist, <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan" style="text-decoration:none">Prasad Natarajan</a> and at Wilderhood, he would be sharing with us his Wildlife Art Work on every Monday. Block your calendar, guys!!! :) 
+Here we introduce Wildlife Artist, <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan" style="text-decoration:none">Prasad Natarajan</a> and at <a href="http://www.wilderhood.com" style="text-decoration:none">Wilderhood</a>, he would be sharing with us his Wildlife Art Work on every Monday. Block your calendar, guys!!! :) 
 </p>
 
 <img src="{{ site.baseurl }}/img/wildart.jpg" alt="Wildart on Wilderhood">
