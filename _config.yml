@@ -18,7 +18,6 @@ domain-home: "wilderhood.com"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 # permalink: pretty
 relative_permalinks: false
 paginate: 10
@@ -26,3 +25,4 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
