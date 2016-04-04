@@ -20,7 +20,7 @@ Proud to be part of <strong>'sponsored'</strong> team for the event along with A
 <img src="{{ site.baseurl }}/img/sponsors_LSW.jpg" alt="Confluence posted on 2nd April 2016 at Satish Dhawan Auditorium, IISc Bangalore">
 
 <p>
-For the second version of 'confluence', which is held at Satish Dhawan Auditorium, IISc Bangalore, which had an amazing agenda of including landscape and nature photgraphers and also about the trends changing in print by <a href="http://www.pixelshooter.net" target="_blank">Pratap J Rao</a> along with amazing talks delivered by other speakers
+For the second version of 'confluence', which is held at Satish Dhawan Auditorium, IISc Bangalore, which had an amazing agenda of including landscape and nature photgraphers and also about the trends changing in print by <a href="http://www.pixelshooter.net" target="_blank">Pratap J Rao</a> (<em>'Fine Art of finding photographic expression on paper'</em>) along with amazing talks delivered by other speakers
 </p>
 
 <img src="{{ site.baseurl }}/img/TheConfluence-Poster.jpg" alt="Confluence posted on 2nd April 2016 at Satish Dhawan Auditorium, IISc Bangalore">
