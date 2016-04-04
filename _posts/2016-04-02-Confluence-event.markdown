@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Confluence event by LSW (Landscape Wizards)"
-subtitle:   "Confluence event by LSW (Landscape Wizards) and Wilderhood is official sponsorer for the event"
+title:      "Confluence event by LW (Landscape Wizards)"
+subtitle:   "Confluence event by LW (Landscape Wizards) and Wilderhood is official sponsorer for the event"
 comments:   true
 sharing-img: img/sponsors_LSW.jpg
 ---
