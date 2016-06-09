@@ -12,7 +12,7 @@ sharing-img: img/raviprakash.jpg
 </p>
 
 <p>
-On this occassion, we present you the BBC Award winner, Wildlife Photographer of the year 2014 <a href="{{ site.baseurl }}/authors/RaviPrakashSS">Ravi Prakash SS</a> makes his debut with <a href="http://recitals.wilderhood.com/backyardbytes" target="_blank">Wilderhood Recitals</a> and he will sharing his amazing creations and thought process behind making these award-winning images.
+On this occassion, we present you the BBC Award winner, Wildlife Photographer of the year 2014 <a href="http://recitals.wilderhood.com/authors/Ravi%20Prakash%20SS/" target="_blank">Ravi Prakash SS</a> makes his debut with <a href="http://recitals.wilderhood.com/backyardbytes" target="_blank">Wilderhood Recitals</a> and he will sharing his amazing creations and thought process behind making these award-winning images.
 </p>
 
 <img src="{{ site.baseurl }}/img/raviprakash.jpg" alt="BBC award winning photographer, Wildlife photographer of the year 2014 Ravi Prakash SS starts his journey with Wilderhood Recitals wiht 'Backyard Bytes' on Creative Nature Photography">
