@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Backyard Bytes by Ravi Prakash SS"
-subtitle:   "Backyard Bytes by Ravi Prakash SS with Wilderhood Recitals on World Environment Day"
+title:      "'Backyard Bytes' by Ravi Prakash SS"
+subtitle:   "'Backyard Bytes' by Ravi Prakash SS with Wilderhood Recitals on World Environment Day"
 comments:   true
 sharing-img: img/raviprakash.jpg
 ---
