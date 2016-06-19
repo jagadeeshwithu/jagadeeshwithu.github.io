@@ -6,8 +6,13 @@
     <meta name="description" content="{{ site.description }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" /> 
     <meta property="og:description" content="{% if page.subtitle %}{{ page.subtitle }} {% else %}{{ site.description }}{% endif %}" />  
-    <meta property="og:image" content="{% if page.header-img %}{{ page.header-img | prepend: '/' | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.header-img | prepend: '/' | prepend: site.baseurl | prepend: site.url }}{% endif %}" /> 
-
+{% assign ogImage = page.sharing-img %}
+{% if ogImage == null %}
+	{% assign ogImage = page.header-img %}
+{% endif %}
+{% if ogImage %}
+	<meta property="og:image" content="{{ ogImage | prepend: '/' | prepend: site.baseurl | prepend: site.url }}" /> 
+{% endif %}
     <link rel="icon" type="image/png" href="{{'/favicon.png' | prepend: site.baseurl | prepend: site.url }}" />
 
     <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
