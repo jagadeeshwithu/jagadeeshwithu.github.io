@@ -31,7 +31,7 @@ During the two day event, our artist will be showcasing his works and explains a
 
 <ul>
 	<li>
-		Artworks by Wildlife Artist Prasad Natarajan will be showcased and here's your chance to interact with the artist in person.
+		Artworks by Wildlife Artist <a href="http://recitals.wilderhood.com/authors/Prasad%20Natarajan/" target="_blank">Prasad Natarajan</a> will be showcased and here's your chance to interact with the artist in person.
 	</li>
 
 	<li>
