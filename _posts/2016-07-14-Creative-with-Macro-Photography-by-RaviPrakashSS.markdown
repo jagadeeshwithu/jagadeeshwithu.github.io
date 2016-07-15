@@ -12,7 +12,7 @@ sharing-img: img/MACRO-workshop-by-RaviPrakashSS.jpg
 </p>
 
 <strong>
-	Now it's time to interact with creative photographer and artist, meet in person. Block your calendars and step in to Bhive workspace in HSR Layout on 30th July 6PM!
+	Now it's time to interact with creative photographer and artist and meet in person. Block your calendars and step in to Bhive workspace in HSR Layout on 30th July 6PM!
 </strong>
 
 <img src="{{ site.baseurl }}/img/MACRO-workshop-by-RaviPrakashSS.jpg" alt="'Creative with Macro Photography' by RaviPrakash SS, creative nature photographer and wildlife photographer of the year 2014">
