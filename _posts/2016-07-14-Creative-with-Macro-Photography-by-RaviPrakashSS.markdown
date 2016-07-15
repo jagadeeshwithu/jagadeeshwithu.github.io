@@ -1,15 +1,10 @@
 ---
 layout:     post
 title:      "'Creative with Macro Photography' workshop by RaviPrakash SS"
-subtitle:   "30th July 6PM, a macro photography session by RaviPrakashSS"
+subtitle:   "30th July 6PM, a macro photography session by RaviPrakashSS at BHIVE workspace, HSR Layout!"
 comments:   true
 sharing-img: img/MACRO-workshop-by-RaviPrakashSS.jpg
 ---
-
-
-<p>
-<em>WILDART is coming to Decathlon Sarjapur!</em>
-</p>
 
 
 <p>
@@ -17,13 +12,13 @@ sharing-img: img/MACRO-workshop-by-RaviPrakashSS.jpg
 </p>
 
 <strong>
-	Now it's time to interact with creative photographer and artist meet in person. Block your calendars and step in to Bhive workspace in HSR Layout on 30th July 6PM
+	Now it's time to interact with creative photographer and artist, meet in person. Block your calendars and step in to Bhive workspace in HSR Layout on 30th July 6PM!
 </strong>
 
 <img src="{{ site.baseurl }}/img/MACRO-workshop-by-RaviPrakashSS.jpg" alt="'Creative with Macro Photography' by RaviPrakash SS, creative nature photographer and wildlife photographer of the year 2014">
 
 <p>
-Here is the opportunity for you to get interact with WPY (Wildlife Photographer of the year) 2014 and BBC award winner RaviPrakash SS and shares his amazing experience in how to make creative images with the macro photography!
+Here is the opportunity for you to get interact with <strong>WPY (Wildlife Photographer of the year) 2014 and BBC award winner</strong> <em>RaviPrakash SS</em> and shares his amazing experience in how to make creative images with the macro photography and his journey towards winning highest honor!
 </p>
 
 <img src="{{ site.baseurl }}/img/raviprakash.jpg" alt="RaviPrakash SS, BBC award winner and wildlife photographer of the year 2014">
